@@ -1,2 +1,1 @@
-# Java-Class
-My homework is stored here
+The first repo I created on Github
